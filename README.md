@@ -28,21 +28,25 @@ Automate usernames scraping from target user's followers list.
    ```sh 
    cd Desktop/InstaScrape-main
 
+8. Enter
+   ```sh
+   python -m venv env
+
 9. Enter
    ```sh
    .\env\Scripts\activate
 
-11. Enter
+10. Enter
     ```sh
     pip install -r requirements.txt
 
-13. Enter
+11. Enter
     ```sh
     python main.py
 
-15. The application is successfully launched!
+12. The application is successfully launched!
     
-16. For future launch, you can try to double click on **main.py**. If it's not working, enter:
+13. For future launch, you can try to double click on **main.py**. If it's not working, enter:
     ```sh
     cd Desktop/InstaScrape-main
     .\env\Scripts\activate
